@@ -1,3 +1,3 @@
-### scraping-python
+### scrapping-python
 
-this repository is have theme of scraping with python progeamming language
+this repository is have theme of scrapping with python progeamming language
